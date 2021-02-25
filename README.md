@@ -34,4 +34,12 @@ console.log(nivel)
 
 ```
 
-Si en vez de copiar mucho texto y todo esto poco a poco, si quieren los archivos también los he subido
+Si en vez de copiar mucho texto y todo esto poco a poco, si quieren los archivos también los he subido.
+están en la carpeta código. si sois muy vagos tomad un index:
+
+- [codigo](https://github.com/samolo-H3LL0/import-objects-fromJSON/tree/main/codigo)
+   - [digndad.json](https://github.com/samolo-H3LL0/import-objects-fromJSON/blob/main/codigo/dignidad.json)
+   - [javascript.js](https://github.com/samolo-H3LL0/import-objects-fromJSON/blob/main/codigo/javascript.js)
+   - [typescript.ts](https://github.com/samolo-H3LL0/import-objects-fromJSON/blob/main/codigo/typescript.ts)
+
+**si hay algún error abrid una issue o contactame en** `fedooragames060@gmail.com`
