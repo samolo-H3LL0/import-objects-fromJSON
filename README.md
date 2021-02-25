@@ -34,4 +34,4 @@ console.log(nivel)
 
 ```
 
-Si en vez de copiar todo esto poco a poco quieren los archivos también los he subido
+Si en vez de copiar mucho texto y todo esto poco a poco, si quieren los archivos también los he subido
