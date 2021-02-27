@@ -28,7 +28,7 @@ console.log(dignidad.nivel)
 
 y si se quiere y mima al typescript, más o menos así: 
 ```ts
-import { nivel } from './config.json';
+import { nivel } from './dignidad.json';
 
 console.log(nivel)
 
