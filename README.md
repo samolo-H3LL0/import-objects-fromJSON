@@ -1,5 +1,5 @@
 # import-objects-fromJSON
-aquí te enseño a importar objetos de un JSON con javascript y typescript (o eso me parece :v)
+aquí te enseño a importar objetos de un JSON con javascript y typescript (o eso me parece)
 
 **importar dignidad de un json (ejemplo)**
 req: TENERLO TODO EN UN CARPETA
